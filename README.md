@@ -1,7 +1,9 @@
 ## Hi there 👋
-
+<div>
 <h1 align="center">Hi 👋, I'm Odinaxon</h1>
 <h3 align="center">frontend developer from Uzbekistan</h3>
+<img url=https://baldezh.top/uploads/posts/2024-01/1704406387_baldezh-top-p-kotiki-za-kompyuterom-oboi-67.jpg/>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=odinaxon&label=Profile%20views&color=0e75b6&style=flat" alt="odinaxon" /> </p>
 
